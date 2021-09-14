@@ -1,0 +1,566 @@
+team|player|observations|score|expectedScore|scoreDiff
+Fremantle|Nat Fyfe|28|56|95.37317|-39.37317
+Western Bulldogs|Aaron Naughton|92|302|338.3554413|-36.3554413000001
+Geelong Cats|Shaun Higgins|25|36|66.592741|-30.592741
+Richmond|Shai Bolton|50|150|173.872893|-23.872893
+Gold Coast Suns|Chris Burgess|26|70|92.752076|-22.752076
+Melbourne|Angus Brayshaw|16|19|41.372537|-22.372537
+Gold Coast Suns|Ben Ainsworth|39|90|111.2447622|-21.2447622
+Hawthorn|Jacob Koschitzke|54|180|200.856827|-20.856827
+Richmond|Kane Lambert|18|40|60.847222|-20.847222
+West Coast Eagles|Zac Langdon|21|43|63.2562917|-20.2562917
+Adelaide Crows|Billy Frampton|15|23|43.203644|-20.203644
+Collingwood|Brody Mihocek|73|228|248.1271957|-20.1271957000001
+Melbourne|Clayton Oliver|30|71|91.040112|-20.040112
+Carlton|Jack Silvagni|27|67|86.4038|-19.4038
+Gold Coast Suns|David Swallow|18|43|61.967529|-18.967529
+Richmond|Tom J. Lynch|71|234|252.2339087|-18.2339087000001
+Collingwood|Mason Cox|17|56|74.006973|-18.006973
+St Kilda|Ben Long|11|20|37.626558|-17.626558
+Western Bulldogs|Laitham Vandermeer|14|38|54.987455|-16.987455
+St Kilda|Max King|76|256|272.825133|-16.8251330000001
+GWS Giants|Bobby Hill|38|96|112.630915|-16.630915
+Melbourne|Max Gawn|30|74|90.112117|-16.112117
+Gold Coast Suns|Sam Flanders|14|29|44.7963417|-15.7963417
+GWS Giants|Josh Kelly|43|110|125.497572|-15.497572
+Geelong Cats|Luke Dahlhaus|25|57|72.155614|-15.155614
+Adelaide Crows|Lachlan Murphy|30|69|84.130526|-15.130526
+St Kilda|Dan Butler|42|125|140.057849|-15.057849
+Essendon|Sam Draper|11|17|31.973229|-14.973229
+Fremantle|Sean Darcy|32|84|98.7340279|-14.7340279
+Western Bulldogs|Lachlan McNeil|18|50|64.7197097|-14.7197097
+Carlton|Zac Fisher|16|32|46.512011|-14.512011
+GWS Giants|Stephen Coniglio|8|10|24.405894|-14.405894
+Port Adelaide|Xavier Duursma|12|21|34.8330973|-13.8330973
+North Melbourne|Luke Davies-Uniacke|16|29|42.7737167|-13.7737167
+North Melbourne|Jaidyn Stephenson|42|106|119.7718817|-13.7718817
+North Melbourne|Jack Mahony|19|58|71.685151|-13.685151
+Essendon|Aaron Francis|10|18|31.5841447|-13.5841447
+St Kilda|Josh Battle|13|25|38.506346|-13.506346
+Geelong Cats|Max Holmes|8|12|24.791667|-12.791667
+Geelong Cats|Brandan Parfitt|21|55|67.680639|-12.680639
+Melbourne|Ben Brown|39|129|141.6524263|-12.6524263
+Carlton|Tom De Koning|17|46|58.349745|-12.349745
+Western Bulldogs|Mitch Hannan|27|77|89.332762|-12.332762
+Essendon|Matt Guelfi|18|40|52.042404|-12.042404
+Carlton|Lachie Fogarty|16|42|53.903326|-11.903326
+Fremantle|Lachie Schultz|43|149|160.8012323|-11.8012323
+Fremantle|Travis Colyer|41|108|119.676161|-11.676161
+Essendon|Cale Hooker|61|215|226.345119|-11.3451190000001
+North Melbourne|Curtis Taylor|21|47|58.130584|-11.130584
+Brisbane Lions|Jarryd Lyons|24|60|70.9332403|-10.9332403
+Melbourne|Jack Viney|10|30|40.774359|-10.774359
+Geelong Cats|Cameron Guthrie|16|31|41.6170737|-10.6170737
+Adelaide Crows|Lachlan Sholl|10|25|35.542366|-10.542366
+Port Adelaide|Ollie Wines|26|66|76.2344567|-10.2344567
+Brisbane Lions|Hugh McCluggage|45|112|122.1614527|-10.1614527
+Carlton|Jack Newnes|15|32|42.134838|-10.134838
+Richmond|Matthew Parker|8|21|31.13041|-10.13041
+Collingwood|Nathan Murphy|6|9|19.08772|-10.08772
+Brisbane Lions|Joe Daniher|87|294|303.9767223|-9.97672230000006
+Western Bulldogs|Anthony Scott|21|60|69.952271|-9.952271
+Collingwood|Oliver Henry|17|49|58.817977|-9.81797699999999
+Essendon|Archie Perkins|24|68|77.722783|-9.72278300000001
+Adelaide Crows|Elliott Himmelberg|14|48|57.656358|-9.656358
+Collingwood|Scott Pendlebury|12|28|37.335898|-9.335898
+Gold Coast Suns|Jack Lukosius|18|29|38.3213647|-9.3213647
+Hawthorn|Mitch Lewis|37|142|151.31104|-9.31104000000002
+Richmond|Marlion Pickett|9|16|25.181429|-9.181429
+Brisbane Lions|Oscar McInerney|14|41|50.127878|-9.127878
+Carlton|Charlie Curnow|8|11|19.935371|-8.935371
+Western Bulldogs|Riley Garcia|11|27|35.519444|-8.519444
+GWS Giants|Brent Daniels|9|16|24.419088|-8.419088
+Collingwood|Josh Thomas|25|80|88.3967163|-8.39671629999999
+Fremantle|Liam Henry|28|69|77.309087|-8.30908699999999
+Sydney Swans|James Bell|7|14|22.17563|-8.17563
+Hawthorn|Oliver Hanrahan|20|54|62.1018517|-8.1018517
+Gold Coast Suns|Sam Day|7|22|30.00943|-8.00943
+Melbourne|Luke Jackson|31|100|107.895372|-7.89537200000002
+Sydney Swans|Sam Wicks|39|120|127.8011477|-7.8011477
+Gold Coast Suns|Darcy MacPherson|8|12|19.740741|-7.740741
+GWS Giants|NA NA|343|731|738.7045947|-7.70459470000037
+Western Bulldogs|Marcus Bontempelli|48|148|155.4062257|-7.40622570000002
+Western Bulldogs|Tim English|37|128|135.4028759|-7.40287589999997
+Carlton|Jack Martin|17|54|61.321636|-7.321636
+GWS Giants|Jack Buckley|3|2|9.25|-7.25
+Essendon|Sam Durham|4|8|15.240216|-7.240216
+North Melbourne|Tristan Xerri|6|8|15.187292|-7.187292
+GWS Giants|Jesse Hogan|33|128|135.17647|-7.17646999999999
+Richmond|Toby Nankervis|7|10|17.02632|-7.02632
+Richmond|Jayden Short|5|8|15|-7
+North Melbourne|Eddie Ford|8|21|27.923686|-6.923686
+West Coast Eagles|Connor West|6|10|16.671852|-6.671852
+Melbourne|Christian Salem|4|7|13.650728|-6.650728
+St Kilda|Dean Kent|11|24|30.574945|-6.574945
+Collingwood|Taylor Adams|7|14|20.50758|-6.50758
+St Kilda|Luke Dunstan|7|10|16.497917|-6.497917
+Melbourne|Nathan Jones|7|15|21.45238|-6.45238
+Melbourne|Charlie Spargo|37|105|111.432229|-6.43222899999999
+Essendon|Brayden Ham|14|38|44.42277|-6.42277
+North Melbourne|Kayne Turner|6|16|22.39652|-6.39652
+Carlton|Harry McKay|100|369|375.329959|-6.32995899999992
+Adelaide Crows|Jackson Hately|3|2|8.326811|-6.326811
+Brisbane Lions|Jarrod Berry|6|20|26.221678|-6.221678
+Western Bulldogs|Rhylee West|3|2|8.1875|-6.1875
+Richmond|Josh Caddy|7|15|21.182285|-6.182285
+Adelaide Crows|Rory Laird|13|24|30.1706857|-6.1706857
+Melbourne|Sam Weideman|10|22|28.165884|-6.165884
+Hawthorn|James Cousins|9|17|23.067765|-6.067765
+GWS Giants|Harry Perryman|12|28|34.057413|-6.057413
+North Melbourne|Todd Goldstein|19|76|82.052505|-6.052505
+Carlton|Levi Casboult|20|53|59.018298|-6.018298
+Port Adelaide|Travis Boak|26|63|68.8891717|-5.88917169999999
+Geelong Cats|Sam De Koning|3|2|7.8|-5.8
+Port Adelaide|Mitch Georgiades|58|203|208.7849879|-5.7849879
+Adelaide Crows|Tom Lynch|21|57|62.77818|-5.77818
+Brisbane Lions|Rhys Mathieson|6|13|18.733333|-5.733333
+North Melbourne|Lachie Young|2|1|6.722222|-5.722222
+Collingwood|Jordan De Goey|56|161|166.617761|-5.61776099999997
+Brisbane Lions|Zac Bailey|54|186|191.605512|-5.60551200000003
+Sydney Swans|Chad Warner|9|34|39.536437|-5.536437
+GWS Giants|Isaac Cumming|5|9|14.527778|-5.527778
+GWS Giants|Tim Taranto|38|91|96.317062|-5.31706200000001
+St Kilda|Jack Steele|29|86|91.2762767|-5.27627670000001
+GWS Giants|Lachie Whitfield|8|19|24.242484|-5.242484
+West Coast Eagles|Bailey J. Williams|5|15|20.197528|-5.197528
+Western Bulldogs|Stefan Martin|3|6|11.190476|-5.190476
+Hawthorn|Blake Hardwick|2|2|7.147059|-5.147059
+Carlton|Matthew Owies|34|107|112.0737953|-5.07379530000001
+Carlton|Will Setterfield|8|11|16.0240033|-5.0240033
+Adelaide Crows|Lachlan Gollant|3|7|12.014036|-5.014036
+Gold Coast Suns|Malcolm Rosas|5|4|9.012644|-5.012644
+Port Adelaide|Aliir Aliir|2|1|5.980549|-4.980549
+West Coast Eagles|Nic Naitanui|13|25|29.934715|-4.934715
+Gold Coast Suns|Jeremy Sharp|6|15|19.929762|-4.929762
+North Melbourne|Jy Simpkin|11|11|15.8905797|-4.8905797
+Adelaide Crows|Paul Seedsman|27|77|81.774737|-4.774737
+GWS Giants|Sam J. Reid|8|27|31.740006|-4.740006
+St Kilda|Rowan Marshall|17|59|63.67811|-4.67811
+Adelaide Crows|James Rowe|36|101|105.612237|-4.61223699999999
+Melbourne|James Harmes|18|44|48.517099|-4.517099
+Gold Coast Suns|Brandon Ellis|7|26|30.5099407|-4.5099407
+West Coast Eagles|Jarrod Brander|12|36|40.419709|-4.419709
+Geelong Cats|Patrick Dangerfield|16|48|52.418349|-4.418349
+Brisbane Lions|Dayne Zorko|40|116|120.4100963|-4.41009629999999
+Geelong Cats|Brad Close|30|100|104.189576|-4.189576
+Gold Coast Suns|Joel Jeffrey|7|15|19.08262|-4.08262
+Carlton|Nic Newman|2|1|5.066667|-4.066667
+Carlton|Sam Petrevski-Seton|5|9|13.062239|-4.062239
+Carlton|Sam Walsh|24|66|70.013683|-4.01368299999999
+Gold Coast Suns|Alex Davies|2|1|5|-4
+Geelong Cats|Josh Jenkins|2|2|5.974545|-3.974545
+Melbourne|Steven May|3|2|5.87889|-3.87889
+Collingwood|Jay Rantall|1|0|3.820513|-3.820513
+Gold Coast Suns|Izak Rankine|34|107|110.7948697|-3.79486969999999
+Adelaide Crows|Sam Berry|17|39|42.717105|-3.717105
+Collingwood|Jack Crisp|4|8|11.708333|-3.708333
+Geelong Cats|Sam Simpson|4|14|17.521505|-3.521505
+Fremantle|Caleb Serong|24|57|60.5194312|-3.51943120000001
+Gold Coast Suns|Noah Anderson|7|5|8.4514107|-3.4514107
+Port Adelaide|Hamish Hartlett|2|2|5.439394|-3.439394
+Carlton|Marc Pittonet|10|35|38.417691|-3.417691
+Sydney Swans|Sam Reid|16|42|45.3910583|-3.3910583
+Essendon|Mason Redman|5|20|23.380435|-3.380435
+Brisbane Lions|Jack Payne|2|1|4.333333|-3.333333
+Essendon|Jye Caldwell|2|1|4.333333|-3.333333
+Adelaide Crows|Brodie Smith|6|9|12.3105177|-3.3105177
+Gold Coast Suns|Touk Miller|18|50|53.307988|-3.30798799999999
+Western Bulldogs|Lin Jong|1|1|4.285714|-3.285714
+GWS Giants|Tanner Bruhn|9|28|31.277812|-3.277812
+Hawthorn|Liam Shiels|15|33|36.1940663|-3.1940663
+Western Bulldogs|Jamarra Ugle-Hagan|14|44|47.189811|-3.189811
+Essendon|Andrew McGrath|6|14|17.166667|-3.166667
+Sydney Swans|Hayden McLean|19|72|75.163915|-3.163915
+Hawthorn|Jaeger O'Meara|16|39|42.159998|-3.15999799999999
+Melbourne|Jake Lever|1|1|4.125|-3.125
+Richmond|Maurice Rioli|4|12|15.122222|-3.122222
+Fremantle|Michael Frederick|15|40|43.100913|-3.100913
+Fremantle|Matt Taberner|62|239|242.065853|-3.06585300000012
+St Kilda|Shaun McKernan|4|13|16.052632|-3.052632
+Melbourne|Christian Petracca|59|170|172.9894933|-2.98949330000002
+Carlton|Lochie O'Brien|3|8|10.948718|-2.948718
+Adelaide Crows|Riley Thilthorpe|32|118|120.928094|-2.92809400000002
+North Melbourne|Charlie Lazzaro|9|21|23.875213|-2.875213
+Fremantle|Alex Pearce|1|1|3.833333|-2.833333
+Hawthorn|Josh Morris|1|1|3.833333|-2.833333
+Sydney Swans|Lewis Taylor|1|1|3.833333|-2.833333
+Western Bulldogs|Louis Butler|1|0|2.793103|-2.793103
+Carlton|Liam Jones|1|1|3.777778|-2.777778
+St Kilda|Jarryn Geary|3|7|9.75|-2.75
+Geelong Cats|Jordan Clark|6|14|16.7472224|-2.7472224
+Richmond|Kamdyn McIntosh|6|10|12.710752|-2.710752
+St Kilda|Sebastian Ross|16|38|40.693039|-2.693039
+St Kilda|Bradley Hill|5|19|21.6875|-2.6875
+Gold Coast Suns|Jack Bowes|4|8|10.683334|-2.683334
+West Coast Eagles|Luke Edwards|1|1|3.666667|-2.666667
+Adelaide Crows|Nick Murray|3|7|9.654701|-2.654701
+Sydney Swans|Josh P. Kennedy|11|27|29.630316|-2.630316
+Collingwood|Mark Keane|1|1|3.625|-2.625
+Collingwood|Finlay Macrae|2|6|8.612903|-2.612903
+Sydney Swans|George Hewett|1|0|2.6|-2.6
+Fremantle|Heath Chapman|2|6|8.6|-2.6
+Essendon|Nik Cox|19|63|65.5632373|-2.5632373
+Port Adelaide|Scott Lycett|15|42|44.516522|-2.51652199999999
+North Melbourne|Brandon Starcevich|1|1|3.5|-2.5
+Adelaide Crows|Chayce Jones|4|9|11.5|-2.5
+Collingwood|Isaac Quaynor|1|1|3.5|-2.5
+West Coast Eagles|Luke Shuey|1|1|3.5|-2.5
+Richmond|Thomson Dow|3|2|4.462121|-2.462121
+Port Adelaide|Tom Rockliff|1|1|3.441176|-2.441176
+North Melbourne|Aidan Corr|1|1|3.4|-2.4
+Collingwood|Brayden Sier|4|6|8.4|-2.4
+Hawthorn|Chad Wingard|30|82|84.35766|-2.35766
+Hawthorn|Ben McEvoy|22|80|82.352065|-2.35206500000002
+Geelong Cats|Lachie Henderson|8|20|22.2978071|-2.2978071
+Adelaide Crows|Tom Doedee|2|7|9.285714|-2.285714
+Western Bulldogs|Jordon Sweet|4|8|10.279545|-2.279545
+Fremantle|James Aish|9|12|14.2760873|-2.2760873
+Collingwood|Callum L. Brown|10|24|26.1945273|-2.1945273
+Fremantle|Joel Western|2|0|2.1|-2.1
+Fremantle|Darcy Tucker|3|2|4.0877197|-2.0877197
+St Kilda|Callum Wilkie|2|1|3.060606|-2.060606
+Hawthorn|Jack Gunston|1|0|2.055556|-2.055556
+Port Adelaide|Steven Motlop|29|86|88.054625|-2.054625
+Carlton|Adam Saad|5|9|11.027778|-2.027778
+Port Adelaide|Boyd Woodcock|8|27|29.026407|-2.026407
+Gold Coast Suns|Will Brodie|2|1|3.013514|-2.013514
+Melbourne|Aaron vandenBerg|2|0|2|-2
+Western Bulldogs|Roarke Smith|5|9|10.964912|-1.964912
+Fremantle|Brandon Walker|3|3|4.944444|-1.944444
+Adelaide Crows|Reilly O'Brien|3|12|13.942724|-1.942724
+West Coast Eagles|Trent Rivers|4|1|2.883333|-1.883333
+Port Adelaide|Willem Drew|12|28|29.844432|-1.844432
+Geelong Cats|Tom Stewart|3|3|4.833333|-1.833333
+Hawthorn|Jonathon Ceglar|4|14|15.815269|-1.815269
+Essendon|Dyson Heppell|3|13|14.765874|-1.765874
+Carlton|Matthew Cottrell|8|20|21.741857|-1.741857
+Sydney Swans|Oliver Florent|16|54|55.7335177|-1.73351769999999
+Geelong Cats|Joel Selwood|13|40|41.71585|-1.71585
+North Melbourne|Jared Polec|1|1|2.666667|-1.666667
+Gold Coast Suns|Zac Smith|6|18|19.6157887|-1.6157887
+Adelaide Crows|David Mackay|14|42|43.5779217|-1.5779217
+GWS Giants|Nick Haynes|3|7|8.5625|-1.5625
+West Coast Eagles|Elliot Yeo|8|22|23.560607|-1.560607
+Essendon|Patrick Ambrose|1|1|2.541667|-1.541667
+Carlton|Mitch McGovern|13|40|41.539483|-1.539483
+Gold Coast Suns|Brayden Fiorini|6|14|15.5318833|-1.5318833
+Adelaide Crows|Shane McAdam|42|161|162.513334|-1.51333399999999
+Fremantle|Ethan Hughes|1|1|2.5|-1.5
+Fremantle|Connor Blakely|3|8|9.476231|-1.476231
+Western Bulldogs|Alex Keath|1|1|2.461539|-1.461539
+West Coast Eagles|Jackson Nelson|2|1|2.333333|-1.333333
+Carlton|Jacob Weitering|1|1|2.333333|-1.333333
+Richmond|Dion Prestia|6|9|10.25|-1.25
+Fremantle|Lloyd Meek|3|8|9.23582|-1.23582
+Richmond|Nick Vlastuin|1|1|2.230769|-1.230769
+Richmond|Noah Balta|3|7|8.222222|-1.222222
+Western Bulldogs|Bailey Smith|27|81|82.2161837|-1.2161837
+Port Adelaide|Todd Marshall|40|149|150.159322|-1.159322
+Collingwood|Beau McCreery|19|71|72.130752|-1.130752
+Fremantle|Nathan Wilson|4|3|3.970588|-0.970588
+Geelong Cats|Mark O'Connor|4|6|6.934066|-0.934066
+Gold Coast Suns|Jarrod Witts|1|1|1.90625|-0.90625
+St Kilda|Nick Coffield|2|7|7.885714|-0.885714
+North Melbourne|Luke McDonald|1|1|1.866667|-0.866667
+St Kilda|Zak Jones|7|26|26.81579|-0.81579
+Richmond|Jason Castagna|35|115|115.7952834|-0.795283399999988
+Adelaide Crows|Kieran Strachan|2|2|2.769231|-0.769231
+Hawthorn|Shaun Burgoyne|3|7|7.761905|-0.761905
+Hawthorn|Harry Morrison|11|43|43.7606837|-0.760683699999994
+GWS Giants|Lachie Ash|4|7|7.75|-0.75
+Port Adelaide|Sam Mayes|10|32|32.6222457|-0.622245700000001
+Carlton|Tom Williamson|6|15|15.60586|-0.60586
+St Kilda|Ryan Byrnes|10|37|37.543859|-0.543858999999998
+Geelong Cats|Rhys Stanley|13|41|41.411008|-0.411008000000002
+West Coast Eagles|Brendon Ah Chee|9|32|32.41006|-0.410060000000001
+Hawthorn|Lachlan Bramble|5|7|7.393965|-0.393965
+Western Bulldogs|Hayden Crozier|1|0|0.3333333|-0.3333333
+GWS Giants|Toby Greene|95|290|290.2838703|-0.28387029999999
+Richmond|Liam Baker|15|49|49.2128817|-0.212881700000004
+Sydney Swans|Nick Blakey|8|22|22.164452|-0.164452000000004
+Geelong Cats|Quinton Narkle|9|28|28.100707|-0.100707
+Gold Coast Suns|Nick Holman|15|65|65.074071|-0.0740710000000036
+Western Bulldogs|Bailey Williams|1|1|1|0
+Western Bulldogs|Buku Khamis|1|0|0|0
+GWS Giants|Callum M. Brown|2|12|12|0
+Carlton|Corey Durdin|1|6|6|0
+Hawthorn|Damon Greaves|1|6|6|0
+Port Adelaide|Dylan Williams|1|0|0|0
+Western Bulldogs|Ed Richards|1|6|6|0
+Hawthorn|Finn Maginness|1|0|0|0
+West Coast Eagles|Isiah Winder|1|6|6|0
+Port Adelaide|Jarrod Lienert|1|6|6|0
+Collingwood|Jeremy Howe|1|0|0|0
+Collingwood|John Noble|1|6|6|0
+West Coast Eagles|Josh Rotham|1|1|1|0
+Collingwood|Levi Greenwood|1|0|0|0
+Adelaide Crows|Luke Pedlar|1|0|0|0
+West Coast Eagles|Mark Hutchings|1|0|0|0
+Port Adelaide|Martin Frederick|1|6|6|0
+Hawthorn|Ned Reeves|1|6|6|0
+Gold Coast Suns|Sean Lemmens|1|0|0|0
+Fremantle|Stefan Giro|1|6|6|0
+Geelong Cats|Tom Atkins|2|1|1|0
+West Coast Eagles|Tom Cole|1|0|0|0
+Collingwood|Tyler Brown|1|0|0|0
+Brisbane Lions|Mitch Robinson|15|43|42.989393|0.0106070000000003
+St Kilda|Jack Sinclair|7|20|19.9803927|0.019607299999997
+West Coast Eagles|Xavier O'Neill|2|7|6.916667|0.0833329999999997
+Fremantle|Blake Acres|6|12|11.909722|0.0902779999999996
+Port Adelaide|Riley Bonner|3|7|6.833334|0.166665999999999
+Western Bulldogs|Taylor Duryea|2|6|5.821429|0.178571
+Port Adelaide|Darcy Byrne-Jones|2|2|1.75|0.25
+Western Bulldogs|Lewis Young|3|7|6.722222|0.277778000000001
+Gold Coast Suns|Caleb Graham|1|1|0.6666667|0.3333333
+St Kilda|Dougal Howard|1|1|0.6666667|0.3333333
+Geelong Cats|Zach Guthrie|1|1|0.6666667|0.3333333
+Fremantle|Adam Cerra|16|40|39.663683|0.336317000000001
+St Kilda|Leo Connolly|2|7|6.607843|0.392157
+Essendon|Nick Hind|5|18|17.555555|0.444445000000002
+North Melbourne|Tom Powell|8|26|25.545237|0.454763
+West Coast Eagles|Jack Petruccelle|28|103|102.504536|0.495463999999998
+Hawthorn|Changkuoth Jiath|1|1|0.5|0.5
+North Melbourne|Phoenix Spicer|1|1|0.5|0.5
+North Melbourne|Shaun Atley|2|7|6.5|0.5
+St Kilda|Brad Crouch|14|40|39.411976|0.588024000000004
+Collingwood|Jack Madgen|1|1|0.4|0.6
+Collingwood|Josh Daicos|19|63|62.393585|0.606415000000013
+GWS Giants|Kieren Briggs|3|12|11.334734|0.665265999999999
+Melbourne|Kysaiah Pickett|74|242|241.3004443|0.699555700000076
+Western Bulldogs|Patrick Lipinski|4|13|12.286438|0.713562
+Port Adelaide|Sam Powell-Pepper|20|68|67.279606|0.720393999999999
+Brisbane Lions|Daniel Rich|9|17|16.25|0.75
+GWS Giants|Adam Kennedy|2|7|6.216117|0.783882999999999
+GWS Giants|Lachlan Keeffe|2|6|5.212406|0.787594
+Gold Coast Suns|Oleg Markov|3|8|7.166667|0.833333
+Brisbane Lions|Tom Fullarton|5|19|18.110223|0.889777000000002
+Fremantle|Rory Lobb|43|138|137.0533667|0.946633300000002
+Port Adelaide|Miles Bergman|15|48|47.046333|0.953666999999996
+Western Bulldogs|Mitch Wallis|8|26|25.045865|0.954134999999997
+Richmond|Jack Ross|3|12|11.0329|0.9671
+Hawthorn|Emerson Jeka|4|14|12.937173|1.062827
+Port Adelaide|Dan Houston|14|41|39.919321|1.080679
+GWS Giants|Jacob Hopper|19|67|65.895211|1.10478900000001
+Gold Coast Suns|Rory Atkins|2|7|5.892857|1.107143
+Western Bulldogs|Toby McLean|5|14|12.858065|1.141935
+Western Bulldogs|Tom Liberatore|27|82|80.824406|1.17559399999999
+Port Adelaide|Lachie Jones|1|6|4.75|1.25
+Brisbane Lions|Ryan Lester|1|6|4.75|1.25
+GWS Giants|Jake Riccardi|3|13|11.716216|1.283784
+St Kilda|Jake Carlisle|3|8|6.65625|1.34375
+GWS Giants|Matt Flynn|7|32|30.653807|1.346193
+Adelaide Crows|Ned McHenry|24|73|71.5694204|1.43057959999999
+Fremantle|Sam Sturt|2|7|5.5|1.5
+Essendon|Tom Cutler|6|10|8.4736843|1.5263157
+Brisbane Lions|Lachie Neale|18|54|52.4335527|1.5664473
+Essendon|Dylan Shiel|7|22|20.43254|1.56746
+Melbourne|Mitch Brown|4|14|12.386654|1.613346
+Geelong Cats|Francis Evans|3|13|11.362222|1.637778
+Richmond|Jack Graham|20|66|64.349234|1.650766
+Essendon|David Zaharakis|5|14|12.333333|1.666667
+North Melbourne|Charlie Comben|1|6|4.31579|1.68421
+Collingwood|Jack Ginnivan|11|38|36.2976903|1.70230970000001
+Collingwood|Darcy Moore|6|25|23.242505|1.757495
+Western Bulldogs|Jack Macrae|15|40|38.23352|1.76647999999999
+Geelong Cats|Esava Ratugolea|18|71|69.183521|1.816479
+Melbourne|Jayden Hunt|4|13|11.163025|1.836975
+Brisbane Lions|Deven Robertson|6|26|24.133672|1.866328
+Brisbane Lions|Thomas Berry|4|13|11.124094|1.875906
+St Kilda|Jack Lonie|13|30|28.063697|1.936303
+Sydney Swans|Dylan Stephens|2|7|5.052631|1.947369
+Melbourne|Tom McDonald|56|201|199.018083|1.98191700000001
+St Kilda|Hunter Clark|4|13|11|2
+Melbourne|James Jordon|13|40|37.866994|2.133006
+St Kilda|Jack Billings|29|98|95.847072|2.15292800000002
+Sydney Swans|Jake Lloyd|2|6|3.8333333|2.1666667
+St Kilda|Tim Membrey|70|229|226.784166|2.21583399999997
+North Melbourne|Will Phillips|8|22|19.779412|2.220588
+Hawthorn|Conor Nash|3|13|10.666667|2.333333
+Essendon|Jayden Laverde|2|6|3.666667|2.333333
+GWS Giants|Matt de Boer|4|14|11.6333333|2.3666667
+Collingwood|Caleb Poulter|8|16|13.541666|2.458334
+Carlton|Michael Gibbons|16|52|49.507331|2.49266899999999
+West Coast Eagles|Alex Witherden|1|6|3.5|2.5
+Sydney Swans|Callum Sinclair|1|6|3.5|2.5
+Geelong Cats|Charlie Constable|1|6|3.5|2.5
+Carlton|David Cuningham|3|18|15.5|2.5
+St Kilda|Jade Gresham|1|6|3.5|2.5
+Brisbane Lions|James Madden|1|6|3.5|2.5
+Richmond|Riley Collier-Dawkins|4|18|15.382979|2.617021
+Geelong Cats|Sam Menegola|26|83|80.331002|2.668998
+Fremantle|Tobe Watson|1|6|3.296296|2.703704
+Hawthorn|Tyler Brockman|19|64|61.248529|2.751471
+Richmond|Bachar Houli|2|6|3.23913|2.76087
+Carlton|Oscar McDonald|3|13|10.227273|2.772727
+Adelaide Crows|Harry Schoenberg|21|69|66.2075217|2.7924783
+Melbourne|Alex Neal-Bullen|31|88|85.1696553|2.83034470000001
+Hawthorn|Jack Scrimshaw|6|26|23.149462|2.850538
+Sydney Swans|Braeden Campbell|3|8|5.129032|2.870968
+North Melbourne|Josh Walker|6|20|17.1210827|2.8789173
+Adelaide Crows|Rory Sloane|5|19|16.118595|2.881405
+North Melbourne|Jack Ziebell|2|12|9|3
+Hawthorn|Michael Hartley|2|7|4|3
+Gold Coast Suns|Wil Powell|1|6|3|3
+Essendon|Zach Merrett|10|29|25.975958|3.024042
+Essendon|Dylan Clarke|2|12|8.960526|3.039474
+Brisbane Lions|Nakia Cockatoo|6|31|27.945652|3.054348
+Melbourne|Tom Sparrow|10|33|29.915287|3.084713
+Hawthorn|Jai Newcombe|1|6|2.888889|3.111111
+St Kilda|Paul Hunter|2|12|8.8875|3.1125
+St Kilda|Jack Bytel|3|13|9.82|3.18
+GWS Giants|Tom Green|19|48|44.707357|3.292643
+Richmond|Sydney Stack|2|12|8.666667|3.333333
+North Melbourne|Atu Bosenavulagi|1|6|2.666667|3.333333
+Carlton|Matthew Kennedy|11|32|28.666581|3.333419
+Brisbane Lions|Keidean Coleman|13|40|36.6597576|3.3402424
+Collingwood|Trey Ruscoe|2|12|8.647059|3.352941
+Geelong Cats|Jed Bews|8|20|16.5616236|3.4383764
+Brisbane Lions|Jaxon Prior|11|40|36.524135|3.475865
+West Coast Eagles|Andrew Gaff|8|19|15.517171|3.482829
+GWS Giants|Matt Buntine|2|7|3.444444|3.555556
+Geelong Cats|Jake Kolodjashnij|1|6|2.378378|3.621622
+Essendon|Ned Cahill|1|6|2.333333|3.666667
+Carlton|Liam Stocker|3|13|9.333333|3.666667
+Sydney Swans|Logan McDonald|16|58|54.3218093|3.67819070000001
+Brisbane Lions|Grant Birchall|2|12|8.3|3.7
+North Melbourne|Tom Campbell|12|37|33.299211|3.700789
+Western Bulldogs|Easton Wood|3|12|8.25|3.75
+North Melbourne|Bailey Scott|16|53|49.226032|3.773968
+Essendon|Darcy Parish|18|67|63.090526|3.909474
+Richmond|Patrick Naish|2|12|8|4
+Fremantle|Bailey Banfield|7|26|21.965131|4.034869
+North Melbourne|Aaron Hall|8|16|11.942634|4.057366
+Carlton|Patrick Cripps|23|83|78.9299757|4.0700243
+Port Adelaide|Zak Butters|11|50|45.92511|4.07489
+Sydney Swans|Errol Gulden|28|93|88.8877643|4.1122357
+Richmond|Hugo Ralphsmith|7|20|15.841667|4.158333
+Port Adelaide|Peter Ladhams|22|71|66.7637323|4.2362677
+Gold Coast Suns|Jacob Townsend|3|18|13.75|4.25
+Collingwood|Darcy Cameron|33|141|136.741135|4.25886499999999
+Sydney Swans|Joel Amartey|8|33|28.7141|4.2859
+Carlton|Lachie Plowman|1|6|1.578947|4.421053
+Hawthorn|James Worpel|19|62|57.5380947|4.46190530000001
+North Melbourne|Ben Cunnington|18|61|56.508315|4.491685
+Brisbane Lions|Harris Andrews|2|7|2.486486|4.513514
+St Kilda|Paddy Ryder|6|31|26.474599|4.525401
+Gold Coast Suns|Matt Rowell|3|12|7.461539|4.538461
+Fremantle|Michael Walters|30|95|90.396462|4.60353800000001
+West Coast Eagles|Tim Kelly|15|43|38.349999|4.650001
+North Melbourne|Tarryn Thomas|49|148|143.303663|4.69633699999997
+Essendon|Devon Smith|40|114|109.2580357|4.74196430000001
+Essendon|Andrew Phillips|5|25|20.256979|4.743021
+Hawthorn|Jarman Impey|2|12|7.235772|4.764228
+Port Adelaide|Charlie Dixon|71|285|280.1230753|4.87692470000002
+Carlton|Zac Williams|11|34|29.1095233|4.8904767
+GWS Giants|Conor Stone|6|19|14.070048|4.929952
+West Coast Eagles|Dom Sheed|18|60|55.026576|4.973424
+Brisbane Lions|Charlie Cameron|101|357|351.946612|5.05338799999998
+Sydney Swans|James Rowbottom|11|39|33.942849|5.057151
+Fremantle|Brett Bewley|2|12|6.904762|5.095238
+Richmond|Dustin Martin|30|115|109.862837|5.137163
+St Kilda|Daniel McKenzie|5|30|24.835648|5.164352
+Hawthorn|Tom Mitchell|13|52|46.771871|5.228129
+Western Bulldogs|Josh Dunkley|14|38|32.6518304|5.3481696
+Carlton|Josh Honey|10|39|33.6378453|5.3621547
+GWS Giants|Shane Mumford|4|24|18.45098|5.54902
+Carlton|Paddy Dow|6|26|20.424074|5.575926
+Essendon|Will Snelling|21|79|73.409096|5.59090399999999
+Melbourne|Ed Langdon|23|79|73.263873|5.73612700000001
+West Coast Eagles|Oscar Allen|50|183|177.258492|5.74150800000001
+Fremantle|Mitch Crowden|12|37|31.2522347|5.7477653
+Sydney Swans|Callum Mills|8|37|31.130183|5.869817
+West Coast Eagles|Jamie Cripps|59|180|174.029744|5.97025599999995
+Geelong Cats|Zach Tuohy|17|61|54.820187|6.179813
+North Melbourne|Jed Anderson|5|25|18.568182|6.431818
+Richmond|Trent Cotchin|3|12|5.333333|6.666667
+Western Bulldogs|Adam Treloar|18|53|46.2342253|6.7657747
+Geelong Cats|Mitch Duncan|12|50|43.2325757|6.76742430000001
+Sydney Swans|Isaac Heeney|59|236|229.232534|6.76746600000001
+West Coast Eagles|Jack Redden|4|19|12.094118|6.905882
+Richmond|Callum Coleman-Jones|15|70|62.977272|7.022728
+Western Bulldogs|Josh Schache|4|24|16.850217|7.149783
+Hawthorn|Daniel Howe|14|47|39.782285|7.21771500000001
+St Kilda|Jack Higgins|49|178|170.7363357|7.26366430000002
+Richmond|Daniel Rioli|19|60|52.672302|7.32769799999999
+Gold Coast Suns|Alex Sexton|38|139|131.6477433|7.3522567
+Fremantle|Andrew Brayshaw|13|53|45.56737|7.43263
+West Coast Eagles|Nathan Vardy|5|30|22.17458|7.82542
+Port Adelaide|Kane Farrell|5|20|12.1470588|7.8529412
+Richmond|Mabior Chol|10|45|37.129802|7.870198
+GWS Giants|Xavier O'Halloran|7|32|24.036484|7.963516
+Gold Coast Suns|Josh Corbett|39|148|139.9735907|8.02640929999998
+Brisbane Lions|Eric Hipwood|50|169|160.9562593|8.04374069999997
+Geelong Cats|Mark Blicavs|6|30|21.919048|8.080952
+Brisbane Lions|Callum Ah Chee|10|42|33.910991|8.089009
+Fremantle|Josh Treacy|23|81|72.8355773|8.16442269999999
+Hawthorn|Tom Phillips|19|77|68.772971|8.227029
+North Melbourne|Cameron Zurhaar|58|195|186.2942143|8.70578570000001
+Fremantle|Sam Switkowski|19|63|54.208332|8.791668
+Essendon|Alec Waterman|30|104|95.1465746|8.85342540000001
+Geelong Cats|Jack Henry|11|43|34.102177|8.897823
+West Coast Eagles|Jake Waterman|27|86|76.9235323|9.07646769999999
+Carlton|Ed Curnow|12|51|41.787236|9.21276400000001
+Port Adelaide|Robbie Gray|35|127|117.763888|9.23611199999999
+Richmond|Shane Edwards|14|45|35.692794|9.30720600000001
+Gold Coast Suns|Hugh Greenwood|11|40|30.631304|9.368696
+Melbourne|Jake Melksham|17|52|42.62209|9.37791
+Port Adelaide|Karl Amon|30|81|71.3902343|9.6097657
+Western Bulldogs|Bailey Dale|8|36|26.052164|9.947836
+Essendon|Harrison Jones|30|126|116.040927|9.959073
+Collingwood|Will Hoskin-Elliott|17|80|69.660742|10.339258
+Hawthorn|Tim O'Brien|20|77|66.228714|10.771286
+Gold Coast Suns|Lachie Weller|13|45|34.133125|10.866875
+North Melbourne|Taylor Garner|9|43|32.096014|10.903986
+Collingwood|Trent Bianco|12|47|36.03966|10.96034
+Collingwood|Brodie Grundy|18|76|64.854828|11.145172
+Richmond|Jake Aarts|32|120|108.807486|11.192514
+West Coast Eagles|Liam Ryan|39|153|141.421519|11.5784810000001
+Sydney Swans|Luke Parker|25|98|85.9964|12.0036
+Western Bulldogs|Lachie Hunter|17|58|45.558401|12.441599
+West Coast Eagles|Jamaine Jones|15|69|56.497902|12.502098
+Sydney Swans|Jordan Dawson|16|59|46.004333|12.995667
+Fremantle|David Mundy|24|91|77.93799|13.06201
+Adelaide Crows|Ben Keays|25|68|54.765564|13.234436
+Port Adelaide|Connor Rozee|40|139|125.6887184|13.3112816
+Gold Coast Suns|Ben King|80|306|292.5394797|13.4605203000001
+Western Bulldogs|Caleb Daniel|10|43|29.477561|13.522439
+St Kilda|Mason Wood|10|44|30.379364|13.620636
+Collingwood|Steele Sidebottom|16|53|39.367801|13.632199
+St Kilda|Cooper Sharman|16|64|50.126508|13.873492
+Geelong Cats|Gryan Miers|21|73|59.0785507|13.9214493
+West Coast Eagles|Jack Darling|70|271|256.891298|14.108702
+Essendon|Jake Stringer|68|244|229.585505|14.414495
+Carlton|Eddie Betts|52|178|163.4500637|14.5499363
+Port Adelaide|Orazio Fantasia|53|184|169.4327377|14.5672623
+Sydney Swans|Justin McInerney|10|38|22.894791|15.105209
+Sydney Swans|Will Hayward|45|183|167.538038|15.461962
+Essendon|Kyle Langford|20|80|64.312351|15.687649
+Sydney Swans|Tom Hickey|17|66|50.294369|15.705631
+GWS Giants|Jeremy Finlayson|38|146|130.094299|15.905701
+GWS Giants|Callan Ward|24|82|66.0891957|15.9108043
+Western Bulldogs|Josh Bruce|80|301|284.5530443|16.4469557
+Carlton|Marc Murphy|12|52|35.5076927|16.4923073
+Western Bulldogs|Jason Johannisen|27|89|72.013779|16.986221
+GWS Giants|Zach Sproule|17|71|53.4192559|17.5807441
+Western Bulldogs|Cody Weightman|44|169|151.226589|17.773411
+Geelong Cats|Isaac Smith|28|93|74.790883|18.209117
+GWS Giants|Harry Himmelberg|62|236|215.7930876|20.2069124
+Sydney Swans|Tom Papley|89|272|251.0430451|20.9569548999999
+Brisbane Lions|Daniel McStay|40|177|155.510121|21.489879
+North Melbourne|Nick Larkey|65|267|242.29488|24.7051200000001
+Hawthorn|Dylan Moore|43|167|142.2766674|24.7233326
+Brisbane Lions|Lincoln McCarthy|57|219|194.138666|24.861334
+GWS Giants|Daniel Lloyd|31|126|99.566133|26.433867
+Geelong Cats|Gary Rohan|53|210|182.180584|27.819416
+Richmond|Jack Riewoldt|90|329|301.1338517|27.8661482999999
+Essendon|Peter Wright|42|180|150.316606|29.683394
+Collingwood|Jamie Elliott|35|152|117.514107|34.485893
+Hawthorn|Luke Breust|49|206|170.6591171|35.3408829
+Geelong Cats|Jeremy Cameron|61|238|202.647169|35.3528310000001
+Adelaide Crows|Darcy Fogarty|40|156|120.4050333|35.5949667
+Melbourne|Bayley Fritsch|78|325|289.117739|35.8822609999999
+Geelong Cats|Tom Hawkins|106|393|355.0238351|37.9761649
+Essendon|Anthony McDonald-Tipungwuti|51|217|176.667699|40.332301
+Sydney Swans|Lance Franklin|81|312|270.053954|41.946046
+Adelaide Crows|Taylor Walker|83|308|251.2305649|56.7694350999999
+West Coast Eagles|Josh J. Kennedy|72|267|207.930104|59.0698959999999
